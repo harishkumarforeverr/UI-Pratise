@@ -8,7 +8,7 @@ const Kanban = () => {
     <div className="Kanban">
       {" "}
       <div className=" text">
-        <h1>Task Management</h1>
+        <h1>Kanban</h1>
         <h2>
           Teamleap is trained to find and organize tasks in terms of their
           priority. Each task has a workflow that shows the brief, stakeholders,

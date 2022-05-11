@@ -11,7 +11,7 @@ const CreateShare = () => {
         <img src={ImageAssest.CreateShare} alt="ok" />
       </div>
       <div className=" text">
-        <h1>Task Management</h1>
+        <h1> Create. Save. Share. </h1>
         <h2>
           Teamleap is trained to find and organize tasks in terms of their
           priority. Each task has a workflow that shows the brief, stakeholders,
