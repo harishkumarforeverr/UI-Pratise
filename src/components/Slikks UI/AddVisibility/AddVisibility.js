@@ -1,5 +1,5 @@
 import React from "react";
-import { ImageAssest } from "../../Assets/index";
+import { ImageAssest } from "../../../Assets/index";
 import "./AddVisibility.scss";
 
 const AddVisibility = () => {

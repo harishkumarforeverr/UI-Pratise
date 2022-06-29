@@ -1,6 +1,6 @@
 import { Button } from "antd";
 import React from "react";
-import { ImageAssest } from "../../Assets/index";
+import { ImageAssest } from "../../../Assets/index";
 import "./TimeManagement.scss";
 
 const TimeManagement = () => {

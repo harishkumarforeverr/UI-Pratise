@@ -1,6 +1,8 @@
 import { Button } from "antd";
 import React from "react";
-import { ImageAssest } from "../../Assets/index";
+import { ImageAssest } from "../../../Assets";
+// import { ImageAssest } from "../../Assets/index";
+// ImageAssest
 import "./Footer.scss";
 const data = [
   {

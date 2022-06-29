@@ -2,7 +2,8 @@ import { Button } from "antd";
 import React from "react"; 
 import "./Header.scss";
 import { ArrowDownOutlined, ArrowUpOutlined } from "@ant-design/icons";
-import { ImageAssest } from "../../Assets/index";
+import { ImageAssest } from "../../../Assets";
+// import { ImageAssest } from "../../Assets/index";
 const Header = () => {
   return (
     <div>

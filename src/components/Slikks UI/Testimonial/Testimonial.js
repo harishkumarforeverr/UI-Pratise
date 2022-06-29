@@ -1,5 +1,5 @@
 import React from "react";
-import { ImageAssest } from "../../Assets/index";
+import { ImageAssest } from "../../../Assets/index";
 import "./Testimonial.scss";
 import { ArrowLeftOutlined, ArrowRightOutlined } from "@ant-design/icons";
 const Testimonial = () => {
